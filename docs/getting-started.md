@@ -2,9 +2,9 @@
 date: '2019-07-10T07:00:00.000Z'
 title: Getting Started
 position: 0
-last_edited: '2020-10-10T08:31:11.817Z'
+last_edited: '2020-10-10T08:33:17.609Z'
 ---
-Edited by Leo
+Edited by Leo1
 
 Tina Starter Alpaca is a NextJS documentation responsive theme, customizable, and hosted on Vercel.
 
